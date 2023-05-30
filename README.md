@@ -74,6 +74,9 @@ main_start()
 This will process the input image, generate an SVG file with the detected contours, optimize the line distances, and generate G-code for laser engraving.
 
 ## GUI
+![GUI Screenshot](Testing%20Images/GUI.png)
+![GUI Screenshot](Testing%20Images/GUI2.png)
+![GUI Screenshot](Testing%20Images/GUI3.png)
 ### Features
 
 - Open and display an image

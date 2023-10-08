@@ -77,9 +77,9 @@ This will process the input image, generate an SVG file with the detected contou
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Testing%20Images/GUI.png" alt="Main Window" width="33%">
-  <img src="Testing%20Images/GUI2.png" alt="Movement Window" width="33%">
-  <img src="Testing%20Images/GUI3.png" alt="Laser Window" width="33%">
+  <img src="Testing%20Images/GUI.png" alt="Main Window" width="50%">
+  <img src="Testing%20Images/GUI2.png" alt="Movement Window" width="50%">
+  <img src="Testing%20Images/GUI3.png" alt="Laser Window" width="50%">
 </div>
 
 ### Features
